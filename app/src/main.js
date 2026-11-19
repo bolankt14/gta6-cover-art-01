@@ -1,3 +1,4 @@
+// Vice Cover Studio
 // Vice Cover Studio — the editor.
 //
 // Wires the page: pick photos, choose a layout, drag to crop, grade each

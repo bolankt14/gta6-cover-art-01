@@ -1,3 +1,4 @@
+// Vice Cover Studio
 // Vice Cover Studio — cover rendering engine.
 //
 // Pure Canvas 2D, no dependencies, no network. A cover is a set of photo

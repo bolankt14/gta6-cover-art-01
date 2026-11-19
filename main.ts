@@ -1,3 +1,4 @@
+// Vice Cover Studio
 // Vice Cover Studio — the entry program (Node 22, standard library only).
 //
 // The app itself lives in app/ beside this file: plain static files a

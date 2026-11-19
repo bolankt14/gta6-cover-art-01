@@ -1,3 +1,4 @@
+// Vice Cover Studio
 // Fixed scenes for screenshots and headless checks.
 //
 //   ?shot=cover&layout=sunset-grid&size=1920x1080&photo=sunset-portrait&photo2=vice-street&photo3=boulevard&line1=VICE&line2=CITY
